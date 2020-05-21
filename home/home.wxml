@@ -1,3 +1,4 @@
 <!--home/home.wxml-->
 <text class="content">你好,小程序</text>
 <button size="mini">按钮</button>
+<text>第一次提交</text>
